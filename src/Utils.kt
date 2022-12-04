@@ -2,6 +2,9 @@ import java.io.File
 import java.math.BigInteger
 import java.security.MessageDigest
 
+fun printP1(s: Any) = println("Part1: $s")
+fun printP2(s: Any) = println("Part2: $s")
+
 /**
  * Reads lines from the given input txt file.
  */
